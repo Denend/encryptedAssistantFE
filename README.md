@@ -10,8 +10,7 @@ It uses Zama to encrypt the communication on-chain.
 
 
 
-URL: \[https://encryptedassistant.xyz/](https://encryptedassistant.xyz/)
-
+URL: https://encryptedassistant.xyz
 
 
 
